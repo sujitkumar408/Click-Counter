@@ -105,3 +105,4 @@ Use these files to complete the implementation:
 # Click-Counter
 # Click-Counter
 # Click-Counter
+# Click-Counter.text
